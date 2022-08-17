@@ -8,7 +8,7 @@ SwaySwap is a blazingly fast DEX built on the fastest modular execution layer: [
 
 Built with an entirely new language ([Sway](https://github.com/FuelLabs/sway)), virtual machine ([FuelVM](https://github.com/FuelLabs/fuel-specs)), and UTXO-based smart contract blockchain ([Fuel](https://fuel-labs.ghost.io/introducing-fuel-the-fastest-modular-execution-layer/)), you can now experience a demonstration of the next generation of scaling beyond layer-2s and monolithic blockchain design.
 
-[![launch app button](docs/assets/launch-button.png)](https://fuellabs.github.io/swayswap)
+[![launch app button](docs/assets/launch-button.png)](https://fuellabs.github.io/Frogmode/swayswap)
 
 The above button launches the latest stable version of SwaySwap. To launch the latest unstable version that includes all current changes from the master branch, click [here](https://swayswap.vercel.app/).
 
